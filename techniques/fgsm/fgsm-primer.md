@@ -1,0 +1,1 @@
+Introduced by Ian Goodfellow and colleagues, FGSM utilizes the gradients of the neural network to create a perturbation that is added to the original input. This perturbation is designed to maximize the loss of the model.

@@ -1,0 +1,1 @@
+JSMA focuses on altering a few, carefully selected input features to change the model's output: It uses the Jacobian matrix of the model to find the most influential features and modifies them to induce misclassification.
