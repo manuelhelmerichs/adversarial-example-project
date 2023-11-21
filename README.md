@@ -1,7 +1,7 @@
 Neural networks are vulnerable to adversarial examples:
 >*Given an input $x$ and any target classification $t$, it is possible to find a new input $x'$ that is similar to x but classified as $t$*
 
-This repository hosts studies on adversarial example generation techniques:
+This repository hosts studies on a selection of adversarial example generation techniques:
 - Carlini and Wagner attack [(CWA)](/techniques/cwa)
 - Fast Gradient Sign Method [(FGSM)](/techniques/fgsm/)
 - Jacobian-based saliency map attack [(JSMA)](/techniques/jsma)
